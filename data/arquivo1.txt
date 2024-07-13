@@ -1,0 +1,98 @@
+História de Usuário: Implementação de Selfcare na Netflix
+Título: Implementação de Selfcare na Netflix
+Descrição:
+Como um usuário da Netflix, quero ter acesso a uma central de ajuda (selfcare) que me permita resolver problemas e tirar dúvidas de forma autônoma, para que eu possa aproveitar ao máximo o serviço sem precisar entrar em contato com o suporte ao cliente.
+
+Critérios de Aceitação:
+Central de Ajuda: Deve haver uma seção dedicada na interface principal da Netflix onde os usuários possam acessar a central de ajuda.
+Base de Conhecimento: A central de ajuda deve conter artigos, tutoriais em vídeo e FAQs sobre tópicos comuns, como problemas de pagamento, gerenciamento de contas, configurações de perfil, uso de dispositivos, entre outros.
+Chatbot Inteligente: Deve haver um chatbot disponível 24/7 que possa responder perguntas comuns e guiar os usuários na resolução de problemas mais simples.
+Suporte para Múltiplos Idiomas: A central de ajuda deve estar disponível em todos os idiomas suportados pela Netflix.
+Sistema de Busca Eficiente: A central de ajuda deve ter um sistema de busca robusto que permita aos usuários encontrar rapidamente a informação que procuram.
+Guias de Solução de Problemas: Para problemas mais complexos, devem estar disponíveis guias passo-a-passo que ajudem os usuários a resolverem as questões de forma autônoma.
+Seção de Contato: Caso os usuários não consigam resolver seu problema através da central de ajuda, deve haver uma seção clara com as opções de contato com o suporte ao cliente (chat ao vivo, e-mail, telefone).
+Histórias de Usuário Detalhadas:
+1. Central de Ajuda na Interface Principal:
+Como um usuário,
+Eu quero acessar a central de ajuda diretamente da interface principal da Netflix,
+Para que eu possa encontrar soluções para meus problemas de forma rápida e eficiente.
+
+Cenário: O usuário está na tela inicial da Netflix.
+Ação: O usuário clica no ícone de perfil e seleciona "Ajuda" no menu dropdown.
+Resultado: O usuário é redirecionado para a central de ajuda onde pode encontrar artigos, FAQs e outras ferramentas de suporte.
+2. Base de Conhecimento Completa:
+Como um usuário,
+Eu quero ter acesso a uma variedade de artigos e tutoriais que expliquem como resolver problemas comuns,
+Para que eu possa solucionar minhas dúvidas sem precisar de ajuda externa.
+
+Cenário: O usuário acessa a central de ajuda e pesquisa por um problema específico, como "Problemas de pagamento".
+Ação: O usuário encontra um artigo detalhado que explica como resolver o problema.
+Resultado: O usuário segue as instruções e resolve o problema de forma autônoma.
+3. Chatbot Inteligente:
+Como um usuário,
+Eu quero interagir com um chatbot que possa responder minhas perguntas e guiar-me na resolução de problemas,
+Para que eu possa resolver questões simples rapidamente.
+
+Cenário: O usuário está enfrentando um problema com a reprodução de vídeos.
+Ação: O usuário acessa o chatbot e descreve o problema.
+Resultado: O chatbot fornece sugestões e orientações que ajudam o usuário a resolver o problema.
+4. Suporte para Múltiplos Idiomas:
+Como um usuário,
+Eu quero acessar a central de ajuda no meu idioma nativo,
+Para que eu possa compreender melhor as instruções e resolver meus problemas sem dificuldades.
+
+Cenário: O usuário que fala espanhol acessa a central de ajuda.
+Ação: O usuário seleciona o idioma espanhol nas opções de idioma.
+Resultado: Todos os artigos, FAQs e guias são exibidos em espanhol.
+5. Sistema de Busca Eficiente:
+Como um usuário,
+Eu quero utilizar um sistema de busca eficiente na central de ajuda,
+Para que eu possa encontrar rapidamente a solução para o meu problema.
+
+Cenário: O usuário não sabe onde encontrar informações sobre como alterar seu plano de assinatura.
+Ação: O usuário digita "alterar plano de assinatura" na barra de busca.
+Resultado: O sistema de busca exibe artigos relevantes que ajudam o usuário a resolver a questão.
+6. Guias de Solução de Problemas:
+Como um usuário,
+Eu quero ter acesso a guias passo-a-passo para problemas mais complexos,
+Para que eu possa resolver questões que exigem mais detalhes e precisão.
+
+Cenário: O usuário está tendo problemas com a reprodução em um dispositivo específico.
+Ação: O usuário encontra um guia passo-a-passo que descreve como resolver problemas de reprodução nesse dispositivo.
+Resultado: O usuário segue o guia e resolve o problema.
+7. Seção de Contato com Suporte ao Cliente:
+Como um usuário,
+Eu quero ter uma opção clara de contato com o suporte ao cliente,
+Para que eu possa obter ajuda diretamente se não conseguir resolver meu problema através da central de ajuda.
+
+Cenário: O usuário não consegue resolver seu problema através dos artigos e do chatbot.
+Ação: O usuário acessa a seção de contato e escolhe entre chat ao vivo, e-mail ou telefone.
+Resultado: O usuário entra em contato com o suporte ao cliente e recebe a assistência necessária.
+Tarefas:
+Design da Interface da Central de Ajuda:
+
+Criar wireframes e mockups da central de ajuda.
+Garantir que a interface seja intuitiva e fácil de navegar.
+Desenvolvimento da Base de Conhecimento:
+
+Compilar e criar artigos e tutoriais.
+Desenvolver tutoriais em vídeo e FAQs.
+Implementação do Chatbot Inteligente:
+
+Integrar um chatbot com inteligência artificial treinado para responder perguntas comuns.
+Garantir que o chatbot possa guiar os usuários na resolução de problemas simples.
+Localização da Central de Ajuda:
+
+Traduzir todos os conteúdos para os idiomas suportados pela Netflix.
+Garantir que a interface suporte múltiplos idiomas.
+Desenvolvimento do Sistema de Busca:
+
+Implementar um sistema de busca eficiente que facilite a localização de informações.
+Criação de Guias de Solução de Problemas:
+
+Desenvolver guias detalhados para problemas mais complexos.
+Testar os guias para garantir sua eficácia.
+Configuração da Seção de Contato:
+
+Definir as opções de contato com o suporte ao cliente.
+Garantir que os usuários possam acessar facilmente essas opções.
